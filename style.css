@@ -1,0 +1,45 @@
+div {
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: rgb(24, 27, 53);
+    padding: 1rem;
+    color: white;
+}
+
+button {
+    background-color: aqua;
+    border-radius: 5px;
+    border: hidden;
+
+}
+
+.deleteBtn {
+    float: right;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+form {
+    text-align: center;
+    width: 100%;
+}
+
+h3 {
+    width: 100%;
+}
+
+.removeItem {
+    float: right;
+}
+
+li {
+    padding: 0.5rem;
+}
+
+.wrong {
+    color: red;
+}
